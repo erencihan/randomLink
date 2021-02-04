@@ -2,10 +2,10 @@
 
 $linkler = array(
 
-    "https://www.dr.com.tr/Kitap/Bulbulu-Oldurmek/Harper-Lee/Edebiyat/Roman/Dunya-Roman/urunno=0001863920001",
-    "https://www.dr.com.tr/Kitap/Ben-Kirke/Madeline-Miller/Edebiyat/Roman/Fantastik/urunno%3D0001836978001?#ins_sr=eyJwcm9kdWN0SWQiOiIxMTI3MTIxIn0%3D",
-    "https://www.nintendo.com/games/detail/rollercoaster-tycoon-adventures-switch/",
-    "http://www.beyazperde.com/diziler/dizi-19982/",
+    	"https://www.dr.com.tr/Kitap/Bulbulu-Oldurmek/Harper-Lee/Edebiyat/Roman/Dunya-Roman/urunno=0001863920001",
+   	"https://www.dr.com.tr/Kitap/Ben-Kirke/Madeline-Miller/Edebiyat/Roman/Fantastik/urunno%3D0001836978001?#ins_sr=eyJwcm9kdWN0SWQiOiIxMTI3MTIxIn0%3D",
+   	"https://www.nintendo.com/games/detail/rollercoaster-tycoon-adventures-switch/",
+    	"http://www.beyazperde.com/diziler/dizi-19982/",
 	"https://www.youtube.com/watch?v=zB8_HbrxUi8",
 	"https://www.amazon.com.tr/Ak%C4%B1ll%C4%B1-Yat%C4%B1r%C4%B1mc%C4%B1-sons%C3%B6z%C3%BCyle-yorumlar%C4%B1yla-zenginle%C5%9Ftirilmi%C5%9F/dp/6051733833",
 	"https://yabancidizi.pw/dizi/dark-desire",
